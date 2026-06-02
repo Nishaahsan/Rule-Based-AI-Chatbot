@@ -7,7 +7,7 @@ responses = {
     'how are you': "I'm doing great, thanks!",
     'your name': "I'm ChatBot, your AI assistant!",
     'help': "I understand: hello, hi, how are you, your name, joke, bye",
-    'joke': "Why do programmers prefer dark mode? Light attracts bugs! 😄",
+    'tell me a joke': "Why do programmers prefer dark mode? Light attracts bugs! 😄",
     'bye': None  # Exit signal
 }
 print("=" * 50)
