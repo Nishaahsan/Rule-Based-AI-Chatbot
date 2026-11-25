@@ -1,4 +1,3 @@
-# DecodeLabs-Internship-project1
 A professional rule-based AI chatbot using dictionary lookups (O(1) complexity). Handles greetings, exit commands, and 10+ intents with zero hallucination risk.
 # Rule-Based AI Chatbot
 A professional, production-ready **Rule-Based AI Chatbot** built with deterministic logic and hash map architecture. This project demonstrates foundational AI concepts through explicit rule-based decision making.
